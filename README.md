@@ -1,4 +1,6 @@
-﻿<div align="center">
+﻿![NoesisAudit visual cover](assets/NoesisAudit-readme-cover.png)
+
+<div align="center">
 
 # NoesisAudit
 
@@ -151,3 +153,5 @@ Email: [2965675629@qq.com]
 
 如有任何问题、反馈或合作意向，请联系：  
 邮箱：[2965675629@qq.com]
+
+
